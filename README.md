@@ -4,10 +4,10 @@ A decentralized, end-to-end encrypted file vault powered by Web3, IPFS, and prot
 
 ## Download
 
-| Platform | Version      | Link          |
-| :------- | :----------- | :------------ |
-| macOs    | `v1.0_alpha` | [Download](#) |
-| Windows  | `-`          | Coming Soon   |
-| Linux    | `-`          | Coming Soon   |
-| Android  | `-`          | Coming Soon   |
-| iOS      | `-`          | Coming Soon   |
+| Platform | Version      | Link                                                                       |
+| :------- | :----------- | :------------------------------------------------------------------------- |
+| macOs    | `v1.0_alpha` | [Download dmg](https://github.com/privqlab/DApp/releases/tag/v.1.0.0_beta) |
+| Windows  | `-`          | Coming Soon                                                                |
+| Linux    | `-`          | Coming Soon                                                                |
+| Android  | `-`          | Coming Soon                                                                |
+| iOS      | `-`          | Coming Soon                                                                |
